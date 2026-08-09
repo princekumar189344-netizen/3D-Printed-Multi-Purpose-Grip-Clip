@@ -1,0 +1,8 @@
+Item,Quantity,Type/Material,Purpose,Cost (₹)
+Real grip clip,1,Plastic,Reference for 3D modelling,₹50
+3D printing service,1,Local shop service,Printing the final model,₹150
+PLA material,1,Plastic,Material used for printed clip,₹50
+Computer,1,PC/Laptop,Making the CAD design,₹0
+CAD software,1,Software,Creating the 3D model,₹0
+Hinge pin,1,Metal wire,Testing the hinge movement,₹10
+Total,,,₹260
